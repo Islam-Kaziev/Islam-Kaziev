@@ -28,7 +28,7 @@
 <img width="7%" title="JUnit5" src="assets/Junit5.svg">
 <img width="7%" title="GitHub" src="assets/GitHub.svg">
 <img width="7%" title="Jenkins" src="assets/Jenkins.svg">
-<img width="7%" title="Rest Assured" src="assets/RestAssured.svg">
+<img width="7%" title="Rest Assured" src="assets/rest-assured.png">
 </p>
 
 ## Projects:
