@@ -1,7 +1,7 @@
  ## 👋 &nbsp;Hey there! I'm Evgenii 
  ## 💾 I'm Qa Engineer
 
-### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://i.yapx.cc/HULkO.gif" align="right" width="100" height="200"/>
+### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="https://i.yapx.cc/HULkO.gif" align="right" width="500" height="500"/>
 
 
 💡 &nbsp;I like to explore and learn new technologies. \
