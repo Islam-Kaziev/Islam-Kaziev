@@ -1,7 +1,7 @@
  ## 👋 &nbsp;Hey there! I'm Islam
  ## 💾 I'm QA Engineer
 
-### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="asserts/developer.gif" align="right" width="300" height="200"/>
+### 👨🏻‍💻 &nbsp;About Me <img alt="Night Coding" src="assets/developer.gif" align="right" width="300" height="200"/>
 
 
 💡 &nbsp;I like to explore and learn new technologies. \
