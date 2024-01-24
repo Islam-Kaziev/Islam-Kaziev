@@ -36,7 +36,7 @@
 </p>
 
 ## Projects:
-## <a target="_blank" href="https://github.com/Islam-Kaziev/MTS_UI_autotests"> UI testing automation project for website [STEAM](https://spb.mts.ru/) 
+## <a target="_blank" href="https://github.com/Islam-Kaziev/MTS_UI_autotests"> UI testing automation project for website [MTS](https://spb.mts.ru/) 
 
 ## <a target="_blank" href="https://github.com/Islam-Kaziev/Rest_Assured_HW"> API automation project for  website [regresIn](https://reqres.in)
  
